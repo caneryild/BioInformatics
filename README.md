@@ -7,3 +7,5 @@
 for instance "AB1C23" and "A1BC23" returns --> either ABC23 or A1C23
 
 --Jacckardt distance similarity or cosine distance similarity is implemented tor longest common subsequence comparisions
+
+--HuffmanCoding.py will be used for gene and protein sequence repeats to find out retrotransposons/virus and evolution relations
