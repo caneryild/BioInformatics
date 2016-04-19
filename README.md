@@ -1,5 +1,5 @@
 # BioInformatics
-ProteinSequenceWeighedSimilarity.py for comparing two proteins considering two same amino acids in longest common sequence are the same and the different ones have similarity properties, such as 
+-ProteinSequenceWeighedSimilarity.py for comparing two proteins considering two same amino acids in longest common sequence are the same and the different ones have similarity properties, such as 
 <i>Hydrophilic,Hydrophobic or positive, negative charge or polarity .... properties of different amino acids can cause similar behavior for the compared region of protein domains.</i>
  	
 -longestCommonSubsequence.py for common method to find out largest subsequence
