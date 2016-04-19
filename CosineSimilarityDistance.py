@@ -1,3 +1,5 @@
+#Author:Caner Yildirim
+#caneryild163@gmail.com
 def cosdist( features,featlineno,featsize):
 	resultCosDist = [[0 for size1 in range(featlineno)] for size2 in range(featlineno)] 
 	for index1 in range(0,featlineno):
