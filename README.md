@@ -5,3 +5,5 @@
  	
 -longestCommonSubsequence.py for common method to find out largest subsequence
 for instance "AB1C23" and "A1BC23" returns --> either ABC23 or A1C23
+
+--Jacckardt distance similarity or cosine distance similarity is implemented tor longest common subsequence comparisions
