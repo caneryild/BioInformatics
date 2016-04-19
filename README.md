@@ -1,4 +1,7 @@
 # BioInformatics
+Author:Caner Yildirim
+caneryild163@gmail.com
+
 -ProteinSequenceWeighedSimilarity.py for comparing two proteins considering two same amino acids in longest common sequence are the same and the different ones have similarity properties, such as 
 <i>Hydrophilic,Hydrophobic or positive, negative charge or polarity .... properties of different amino acids can cause similar behavior for the compared region of protein domains.</i>
  	
