@@ -18,5 +18,20 @@ def similarityOfProteins(protein1,protein2,aminoAcidSimilarities=aminoAcidSimila
         'the reverse for 2 two steps are repeated from end to start and from end of lcs.'s to start.
         'Total of m*n*2 comparisions are made.
     #
+    iterate=True
+    maxScore=0
+    for i in range(0,len(protein1)):
+      for j in range(1,len(protein2)):
+        k=0
+        score=0
+        
+        while iterate == True and i+k< len(protein1) and j+k< len(protein2):
+          score=score+ similarity(protein1[i+k],protein2[j+k)
+          k=k+1
+          
+        score=score*1.0/k
+        if maxScore<score:
+          maxScore=score
+    
     similarities=0# will be similar to cosine distance similarity or jaccardt distance similarity 
   return similarities
